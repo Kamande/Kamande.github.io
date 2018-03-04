@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you should probably not ignore me
 ---
 
 I failed the Normal Test for Conventionality.
@@ -17,3 +17,6 @@ THE WIRE taught me that A man MUST have a Code. Mine, is an overload of ethic an
 I also enjoy a good book - like the Godfather, Tools of Titans, or The Signal and The noise - and recently took up hiking.
 
 Great men are not born great, they grow great . . . - Mario Puzo
+
+### What this webste is about
+Here, I publish random write ups on insights from interesting Data and things that keep me up at night. There is a bias towards sports, my consistently sweet and sour spot.
