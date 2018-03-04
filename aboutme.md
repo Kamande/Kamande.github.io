@@ -18,5 +18,5 @@ I also enjoy a good book - like the Godfather, Tools of Titans, or The Signal an
 
 Great men are not born great, they grow great . . . - Mario Puzo
 
-### What this webste is about
+### About this site
 Here, I publish random write ups on insights from interesting Data and things that keep me up at night. There is a bias towards sports, my consistently sweet and sour spot.
