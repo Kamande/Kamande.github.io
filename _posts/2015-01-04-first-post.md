@@ -4,4 +4,6 @@ title: First post!
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+Testing, Testing!
+
+You are here, it means you made it to the promised page. Congratulations.
