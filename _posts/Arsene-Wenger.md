@@ -2,9 +2,7 @@
 layout: post
 title: Arsene Wenger - He built. Is he now destroying?
 subtitle: A look at Arsenal's performance since Arsene's first full season in charge
-gh-repo: kamande/kamande.github.io
-gh-badge: [star, fork, follow]
-tags: [Arsenal]
+
 ---
 
 I remember watching Bergkhamp, Henry, Pires, Edu, Gilberto, Viera etc rip teams into pieces. I remember tham also having a bad day but the big cojones to fight to the end were never in question. Then, Wenger, Arsene Wenger. I could have sworn Arsenal was named after this great man. I revered him greatly, as did many of us, I am sure. Access to Arsenal matches on a regular was not as easy as it has become now, but that did not deter my/our resolve to catch every single game possible. When inaccessible, we'd listen to the matches on Radio. We'd read the papers the next day and cut out pictures of Ljunberg and stick it on the next page of this wonderful collection book.
