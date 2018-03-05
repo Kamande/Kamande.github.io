@@ -2,7 +2,7 @@
 layout: post
 title: Arsene Wenger - He built. Is he now destroying?
 subtitle: A look at Arsenal's performance since Arsene's first full season in charge
-gh-repo: daattali/beautiful-jekyll
+gh-repo: kamande/kamande.github.io
 gh-badge: [star, fork, follow]
 tags: [Arsenal]
 ---
