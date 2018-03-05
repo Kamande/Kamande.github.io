@@ -13,20 +13,24 @@ The subsequent years have been thorny, with roses every now and then. Roses that
 
 That said, I still care about Arsenal, and what has transpired this season has been especially conspicuous from a data stand point. I could not help but notice a few things that reinforce my opinion about it being the end of Arsene's road, sadly. It is a desolate situation. There are many pieces of information that I/most of us are not privy to besides what takes place on the pitch, pieces like this informative [thread](https://twitter.com/DarrenArsenal1/status/969514628056264705) from @DarrenArsenal1 on twitter, but my sentiments are based on a strickly team performance basis. That is what matters to us in the end. Losing 8-2 to United with a solid bottomline might not be the worst situation for the club, but it is for the fans. My goodness, we have endured. 6-0 at Stamford Bridge. 15-3 aggregate against Bayern Munich. 5-1 at Liverpool. I could go on.
 
-## 1997/8 - 2004/5 The good old days
+Let us look at the league performance.
 
+## 1997/8 - 2004/5 The good old days
+In the first eight full seasons of Arsene Wenger, Arsenal was exemplary. 
 
 Here's a useless table:
+Season	MatchesPlayed	Wins	Losses	Goals	GoalsConceded	CleanSheets	Points	WinnerPoints	Diff	FinishPosition
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
+| Season | Wins | Losses | Goals | Goals Conceded | Clean Sheets | Points | Winner Points | League Position |
+| :------ |:--- | :--- |:--- |:--- |:--- |:--- |:--- |:--- |
+| 1997/8 | 23 | 6 | 68 | 33 | 19 | 78 | 78 | 1 |
+| 1998/9 | 22 | 4 | 59 | 17 | 23 | 78 | 79 | 2 |
+| 1999/00 | 22 | 9 | 73 | 43 | 10 | 73 | 91 | 2 |
+| 2000/01 | 20 | 8 | 63 | 38 | 17 | 70 | 80 | 2 |
+| 2001/02 | 26 | 3 | 79 | 36 | 14 | 87 | 87 | 1 |
+| 2002/03 | 23 | 6 | 85 | 42 | 10 | 78 | 83 | 2 |
+| 2003/04 | 26 | 0 | 73 | 26 | 15 | 90 | 90 | 1 |
+| 2004/05 | 25 | 5 | 87 | 36 | 16 | 83 | 95 | 2 |
 
 ![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
