@@ -54,7 +54,7 @@ Arsenal sits at 6th position and remains on course to break some records based o
 
 * ~ 13 losses, highest in the Wender era
 * 17 wins, the least under Wenger
-* >50 goals conceded, the highest in the Wenger era
+* 50 or more goals conceded, the highest in the Wenger era
 *  ~ 40 points behind the winners, City. Again, the biggest margin under Wenger
 * 6th Position, the lowest league position under Wenger
 
