@@ -15,7 +15,7 @@ That said, I still care about Arsenal, and what has transpired this season has b
 
 Let us look at the league performance, breaking it down into two periods.
 
-## 1997/8 - 2004/5 The good old days
+## 1997/8 - 2004/5: The good old days
 In the first eight full seasons of Arsene Wenger, Arsenal was exemplary. 
 
 Here's a table of some important indicators:
@@ -39,22 +39,23 @@ Here is a summary of the 8 years:
 | :------ |:--- | :--- |:--- |:--- |:--- |
 | 23.375 | 5.125 | 73.375 | 33.875 | 15.5 | 79.625 |
 
+Arsenal finished second in the five seasons that they did not win the league. Also suffices to mention that in this period, Arsenal also won 4 FA cups. Not bad.
+
+## 2005/6 - date: How far we done fell!
+
+In the memorable words of Bunk Moreland, it makes me sick motherfucker how far we done fell!
+The invincible season hang over was barely gone when all manner of things started happening. The exit of club captain, Patrick Vieira in 2005, the move to the Emirates in 2006, the almost UCL winin Paris thanks to Almunia? Definitely Almunia. Sorry. Maybe it was time to pay the cost of invicibility. Whatever he case, it has been downhill these last 13 seasons, the 3 quick FA cups notwithstanding.
+
+The clear trend is the scariest bit. Arsenal's peformance under Wenger seems to have a step-like deteriorating pattern. After the first 8 years of 1st and 2nd finishes, the club finished either 3rd or 4th in the next 10 seasons, followed by that crazy season in which Leicester won the league. Arsenal finished 2nd, an outlier data point and season, really. For the first time in the Wenger era, Arsenal failed to make it to the UCL after finishing 5th in the 2016/17 season. Things seem to have gone from bad to WORSE tis season.
+
+Arsenal sits at 6th position and remains on course to break some records based on the 29 games played so far, negatively so. These are some of the likely stats at the end of the season:
+
+* ~ 13 losses, highest in the Wender era
+* 17 wins, the least under Wenger
+* > 50 goals conceded, the highest in the Wenger era
+*  ~ 40 points behind the winners, City. Again, the biggest margin under Wenger
+* 6th Position, the lowest league position under Wenger
+
+All this is despite ostensibly having coming out of the tough financial situation, spending money on world class players, getting rid of Sanchez with his dogs and apparent toxicity, etc. We love the man, most of us do. But the trend looks bleak. Failure to factually approach this, assuming the club cares about winning and the fans, will only lead to more spiralling. And no one knows where and when that stops. It's about time, Monsieur.
+
 ![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
