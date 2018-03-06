@@ -48,13 +48,13 @@ The invincible season hang over was barely gone when all manner of things starte
 
 The clear trend is the scariest bit. Arsenal's peformance under Wenger seems to have a step-like deteriorating pattern. After the first 8 years of 1st and 2nd finishes, the club finished either 3rd or 4th in the next 10 seasons, followed by that crazy season in which Leicester won the league. Arsenal finished 2nd, an outlier data point and season, really. For the first time in the Wenger era, Arsenal failed to make it to the UCL after finishing 5th in the 2016/17 season. Things seem to have gone from bad to WORSE tis season.
 
-![Performance](img/Wenger.jpg)
+![Arsenal League Performance under Wenger](img/Wenger.jpg)
 
 Arsenal sits at 6th position and remains on course to break some records based on the 29 games played so far, negatively so. These are some of the likely stats at the end of the season:
 
 * ~ 13 losses, highest in the Wender era
 * 17 wins, the least under Wenger
-* > 50 goals conceded, the highest in the Wenger era
+* >50 goals conceded, the highest in the Wenger era
 *  ~ 40 points behind the winners, City. Again, the biggest margin under Wenger
 * 6th Position, the lowest league position under Wenger
 
