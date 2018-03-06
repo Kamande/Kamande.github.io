@@ -31,9 +31,10 @@ Here's a table of some important indicators:
 | 2003/04 | 26 | 0 | 73 | 26 | 15 | 90 | 90 | 1 |
 | 2004/05 | 25 | 5 | 87 | 36 | 16 | 83 | 95 | 2 |
 
-Ah, he gave us everything (apart from the ever elusive UCL). 3 league titles, an invincible season, world class players that could walk into any first team, a trademark counter attacking style especially between 2002 and 2005; we had it going. Who can forget famously winning the league at White Hart Lane to cap an unbeaten season? We were competing, the fans smiled in pride, we had the right and armour for banter with any other fans.
+Ah, he gave us everything (apart from the ever elusive UCL). 3 league titles, an invincible season, world class players that could walk into any first team, a trademark counter attacking style especially between 2002 and 2005; we had it going. He clinched the double in his first full season, and again in 2002. Who can forget famously winning the league at White Hart Lane to cap an unbeaten season? Or the Wiltord goal to win the league at Old Trafford? We were competing, the fans smiled in pride, we had the right and armour for banter with any other fans.
 
 Here is a summary of the 8 years:
+
 | Average Wins | Average Losses |	Average Goals |	Average Goals Conceded | Average Clean Sheets |	Average Points |
 | :------ |:--- | :--- |:--- |:--- |:--- |
 | 23.375 | 5.125 | 73.375 | 33.875 | 15.5 | 79.625 |
