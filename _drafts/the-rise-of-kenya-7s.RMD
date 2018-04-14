@@ -1,0 +1,111 @@
+---
+layout: post
+title: Kenya 7s - The incredible journey to the elite club
+subtitle: From minnows to a seat at the high table
+gh-repo: kamande/kamande.github.io
+gh-badge: [star, fork, follow]
+tags: [Rugby]
+---
+
+```{r results='hide', message=FALSE, warning=FALSE, echo=FALSE}
+knitr::opts_chunk$set(fig.path='{{kamande.hithub.io}}/img/blog-images-')
+```
+
+The Kenya 7s team has come such a long way inspite of the myriad of odds stacked against us. A not so insignificant testament to this is playing in back to back finals in Vancouver and then Hong Kong. We (I will use WE from this sentence on, because I have always been part of the team in the depths of my mind. Also, the proud Kenyan in me.) have now been involved in four finals, three against Fiji, and winning one of those in Singapore in the 2015/16 season. I could not help but smile this past weekend at all the progress by our boys in mental strength, conditioning, technical abilities and intelligence. I had watched a Hong Kong 7s pre-series [clip] (https://www.youtube.com/watch?v=uP0t2588w-M) in which Rob Vickerman provided a very fascinating statistic - Kenya has been the best team in turnovers at the breakdown, with **32** of them compared to the series average of 15. A clear strength that we seem to have focused on with commitmen. We are now exceptional at it and the results are crystal clear. How clear? In the semi final game against New Zealand, we led 14-7 at halftime. We soaked immense pressure from the All Blacks for the first 5 minutes of the second half as they sought and equalizer, fiercely. Now, in 7s, defending successfully for 5 minutes is no mean fete. You must have seen players holding the back of their heads, gasping for airbetween dry mouth guards, torso and abdomen areas moving in extreme anguish - that is what defending continuously for even 3 minutes does to players. Anyway, we defended tremendously for 5 minutes and then just as they got into our 5 metre area, the boys exhibited their intelligence and physique at the breakdown and turned the play over after a series of huge tackles. One pass out by Andrew, and big Will was off. Try. It is not a coincidence. It is a strength the team has worked on deliberately and opposition is often caught guard down.
+
+I thought I would start this piece by examining an interesting stat that caught my attention, provoking a look into the performance of the Kenya 7s team over the years. Data is hard to come by, therefore I will just forcus on a couple of available interesting variables. Wikepdia, unbelievably, has the comprehensive season by season series tables, and was extremely helpful. Following our performance in Hong Kong, I looked at this seasons table and the **83** points we have collected in 7 out of 10 legs so far intrigued me. We are only 7 points away from forth placed Argentina. This is huge, especially by our current standards and predicaments. (PS. I train at the same gym the boys use before they come in at 6 am, and it is not a facility at the standards of a series core team. Add this to the sposorship withdrawal by Sportpesa and the semi-professinality of the players, and the sheer resolve it takes to perform at this level is outrightly intelligible). Our highest finish in the series came under Mike Friday in the 2012/13 season, when we finished with 99 points. Massive performance, right? Right. We still finished 74 points behind the series winners, New Zealand. First, let us look at our performance overtime.
+
+---
+
+### Points per Season
+The days when we would collect single digit points every season are long gone. Good riddance. It has taken a lot of work, and our expectation now is that the boys make it AT LEAST into the main cup/gold medal quarter finals every leg. There is collective melancholy in the country, even by my mum, when this does not happen. Okay, I might have pushed it. But my wife is unwillingly drawn into my disappointment whenever we do not make it into the Quarters. Seriously. We have become accustomed to a certain level of results and not just the parcicipation trophy. We are legitimate competitors now and other teams have adjusted to respect us and make space for our seat at the high table. Consistency has however plagued us. I am not privy to the Union wrangles that might have been key in our dismal 13th and 12th place finishes in the 2014/15 and 2016/17 seasons respectively.
+
+Below is a graph of the points we have collected since the 2002/03 season:
+```{r results='hide', message=FALSE, warning=FALSE, echo=FALSE}
+library(tidyverse)
+library(plotly)
+sevens <- read.csv("Kenya_7s.csv")
+sevens <- sevens %>% 
+  mutate(differenceFromWinner = winnerPoints - points) %>% 
+  filter(points > 0)
+
+g1 <- ggplot(sevens, aes(season, points, group = 1, text = paste("Season: ", season, "<br> Points:", points))) +
+  geom_line(size = 1)+
+  scale_color_manual(values=c("orangered", "dodgerblue", "gray52"))+
+  ggtitle("Kenya 7s Points by Season - 7s Series")+
+  theme_minimal()+
+  xlab("")+
+  theme(axis.text.x = element_text(face="bold", color="black", angle=90),
+        legend.title = element_blank())+
+  geom_hline(yintercept = 48.75, linetype = 2, colour = "red3")
+
+ggplotly(g1, tooltip = "text")
+```
+
+We have averaged 49 points over the last 16 years, despite the overall growth trend. The last 6 years (let's call them Post-Friday, and we'll come to that shortly) have been well above average, except for 2014/15, where we collected only 46 points. 2011/12 stand out in all this. Following 4 years of contiuous improvement, we dropped remarkably. 16 points. It was here that the Union and the then Coach, Benjamin Ayimba, also parted ways for the first time. We have amassed 83 points from 7 legs so far this season. This is better than the final tally for 12 of the past 15 seasons. If we play with the same intensity and determination in the last three legs, there is no reason why this will not be our best season YET. The copetition might be tighter and we might not finish fourth, but it will be a successful season, if it isn't already. We are likely to end the season with more than 100 points for the first time ever. Maybe even more than 120 if we make it past at least two of the quarter finals.
+
+### Position by Season
+Decent. We have held our own. We have maintained core team status. Not a bad thing. Over the last 16 seasons, we have finished the season at position 9. We finished 5th in our best season under Mike Friday (2012/13), with our worst rank coming recently in 2014/15, when we finished 13th. It might seem like a case of two steps forward and one step back. Sometimes even 3 steps back. We failed to build on our 5th place finish and instead went on to finish 7th and 13th in the two subsequent season. Again, we finished at a decent 7th in 2015/16, only to drop all the way to 12th last season. Inconsistency. I would like to hypothesize WHY, but I lack sufficient eveidence to support any claim. The much I know is that we need to capitalize on the progress and momentum we make to drive better performance the next season(s)
+
+
+```{r, echo=FALSE}
+g2 <- ggplot(sevens, aes(season, position, group = 1, text = paste("Season: ", season, "<br> Position:", position))) +
+  geom_line(size = 1, colour = "orangered")+
+  scale_color_manual(values=c("orangered", "dodgerblue", "gray52"))+
+  ggtitle("Kenya 7s Position by Season - 7s Series")+
+  scale_y_reverse(breaks = seq(15, 0, -1))+
+  theme_minimal()+
+  xlab("")+
+  theme(axis.text.x = element_text(face="bold", color="black", angle=90),
+        legend.title = element_blank())+
+  geom_hline(yintercept = 9, linetype = 2, colour = "gray24")
+
+ggplotly(g2, tooltip = "text")
+```
+
+
+
+
+The graph below shows the distribution of our final positions over the last 16 seasons (Assuming we remain 7th till the end of this season)
+
+
+```{r, echo=FALSE}
+g3 <- ggplot(sevens, aes(position))+
+  geom_histogram(bins = 30, fill = "green3", binwidth = 0.55)
+g3
+```
+
+
+### The gap from the top
+I do not mean to discredit the great season we had in 2012/13 and the imact it had on the team going forward, but the gap between us and the top team is not something you can overlook. Why? It means that despite, the solid performances, we still ended up a long way behind the BEST. This season could be the one where that gap narrows significantly, a paramount indicator of our relative performance. We could finish less than 68 points behind this season's winners. 68 points is the narowest gap yet, which was achieved in 2008/09 under Ayimba. In 2012/13, we finished 74 points behind New Zealand.
+
+
+```{r, echo=FALSE}
+g4 <- ggplot(sevens, aes(season, differenceFromWinner, group = 1, text = paste("Season: ", season, "<br> Gap:", differenceFromWinner))) +
+  geom_bar(stat = "identity", fill = "orangered")+
+  #geom_line(size = 1, colour = "orangered")+
+  scale_color_manual(values=c("orangered", "dodgerblue", "gray52"))+
+  ggtitle("Gap in points between Kenya 7s and Series Champion by Year")+
+  theme_minimal()+
+  xlab("")+
+  theme(axis.text.x = element_text(face="bold", color="black", angle=90),
+        legend.title = element_blank())+
+  geom_hline(yintercept = 70, linetype = 2, colour = "gray24")
+
+ggplotly(g4, tooltip = "text")
+
+```
+
+
+### The Mike Friday Effect - is that even a thing?
+Otoyo, as he is still fondly known, had an undeniable impact on the Kenya 7s set up. There are a lot of players who worked with him and are are still playing. Well, I hope that the impact, if indeed any, supercedes individual players and is ingrained into the set up. Let us split up the last 16 seasons into two periods - Pre and Post Friday. The Post Friday era starts with his only season in charge - 2012/13.
+
+| Period        | No. of Seasons| Average Points | Average Position | Median Position | Gap |
+| ------------- |:-------------:| --------------:| ---------------: | ---------------:| ---:|
+| Pre-Friday    |     10        |       27       |        9         |       10        | 114 |
+| Post-Friday   |     6         |       85       |        8         |        7        |  94 |
+
+In the 10 seasons before Friday, we averaged 27 points per season. Since then, we have significantly improved, and were it not for the dire inconsistensies, we would be in a much better situation.
+
+Here is to hoping that we show up grandly in the last three legs and even more pertinently, that we can maintain the progress over the coming years without the historical dips that have seen us rescind unnecessarily.
+
