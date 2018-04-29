@@ -48,7 +48,7 @@ The invincible season hang over was barely gone when all manner of things starte
 
 The clear trend is the scariest bit. Arsenal's peformance under Wenger seems to have a step-like deteriorating pattern. After the first 8 years of 1st and 2nd finishes, the club finished either 3rd or 4th in the next 10 seasons, followed by that crazy season in which Leicester won the league. Arsenal finished 2nd, an outlier data point and season, really. For the first time in the Wenger era, Arsenal failed to make it to the UCL after finishing 5th in the 2016/17 season. Things seem to have gone from bad to WORSE tis season.
 
-[Arsenal League Performance under Wenger](img/Wenger.jpg)
+![Arsenal League Performance under Wenger](img/Wenger.jpg)
 
 Arsenal sits at 6th position and remains on course to break some records based on the 29 games played so far, negatively so. These are some of the likely stats at the end of the season:
 
@@ -58,4 +58,4 @@ Arsenal sits at 6th position and remains on course to break some records based o
 *  ~ 40 points behind the winners, City. Again, the biggest margin under Wenger
 * 6th Position, the lowest league position under Wenger
 
-All this is despite the club ostensibly having navigated out of the tough financial situation, spending money on world class players, getting rid of Sanchez with his dogs and apparent toxicity, etc. We love the man, most of us do. But the trend looks bleak. Failure to factually approach this, assuming the club cares about winning and the fans, will only lead to more spiralling. And no one knows where and when that stops. It's about time, Monsieur.
+All this is despite the club ostensibly having navigated its way out of the tough financial situation, spending money on world class players, getting rid of Sanchez with his dogs and apparent toxicity, etc. We love the man, most of us do. But the trend looks bleak. Failure to factually approach this, assuming the club cares about winning and the fans, will only lead to more spiralling. And no one knows where and when that stops. It's about time, Monsieur.
