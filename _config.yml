@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Kamande's Random Data Walks
+title: We have moved to Kamande.netlify.com 
 
 # Short description of your site
 description: Examining Random Data for insights and fun!
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Kamande.co.ke"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "Kamande.netlify.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
